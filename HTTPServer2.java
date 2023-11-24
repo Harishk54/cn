@@ -4,7 +4,7 @@ import java.awt.image.*;
 import javax.imageio.*;
 import javax.swing.*;
 
-public class HTTPServer {
+public class HTTPServer2 {
     public static void main(String args[]) throws Exception {
         ServerSocket server = null;
         Socket socket;

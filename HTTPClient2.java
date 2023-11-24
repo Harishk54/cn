@@ -7,7 +7,7 @@ import java.net.Socket;
 
 import javax.imageio.ImageIO;
 
-public class HTTPClient {
+public class HTTPClient2 {
     public static void main(String args[]) throws Exception {
         Socket soc;
         BufferedImage img = null;

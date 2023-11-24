@@ -1,3 +1,2 @@
-download the the java program
-load the java file in the vscode
+download the the java program run the java file in the vscode
 
